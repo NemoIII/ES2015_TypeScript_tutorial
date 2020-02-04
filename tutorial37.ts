@@ -1,2 +1,0 @@
-// class about Symbol Interator
-

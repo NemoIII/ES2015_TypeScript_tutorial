@@ -5,3 +5,7 @@ Para instalar o pacote npm, digite: npm i lite-server -g ** Caso não dê permis
 Para rodar o server desse código, coloque no terminal: lite-server
 
 Cada arquivo .js, que aparece na pasta script, é de uma aula diferente da outra. Mantive apenas as que considerei boas, para mim, para referências posteriores.
+
+Comentários feitos em inglês, pela prática da língua.
+
+//TODO: mudar o nome do projeto, incluíndo TypeScript após o ES2015 e antes do Tutorial

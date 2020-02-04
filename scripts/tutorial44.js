@@ -5,4 +5,4 @@ var x = 10;
 var y = x + " hi";
 console.log(y);
 // Always better use Type Annotation
-//# sourceMappingURL=tutorial42.js.map
+//# sourceMappingURL=tutorial44.js.map

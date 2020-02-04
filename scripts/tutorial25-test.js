@@ -1,8 +1,8 @@
 "use strict";
 // class about modules loader setup
 // Module Syntax - ES2015
-// Module Loading - WIP
+// Module Loading - WIP (Working In Progress)
 // npm install es6-module-loader traceur systemjs
-// o comando acima foi executado, mas não colocou o nome_module no projeto.
-// TODO: ver porque o node_module não foi colocado no projeto como deveria com o comando acima.
+// Resolvido o problema do npm acima, criado o package.json para a instalação ser realizada.
+// In ths class, I'm learning about Module Loader Setup.
 //# sourceMappingURL=tutorial25-test.js.map

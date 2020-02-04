@@ -1,0 +1,24 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Tutorial TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NemoIII/ES2015_tutorial.git"
+  },
+  "author": "Pablo III",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NemoIII/ES2015_tutorial/issues"
+  },
+  "homepage": "https://github.com/NemoIII/ES2015_tutorial#readme",
+  "dependencies": {
+    "es6-module-loader": "^0.17.11",
+    "systemjs": "^6.2.0",
+    "traceur": "0.0.111"
+  }
+}

@@ -1,8 +1,8 @@
 "use strict";
-// class about Type Interface
-var x = 10;
-// x = "hi"; (wrong!!)
-var y = x + " hi";
-console.log(y);
-// Always better use Type Annotation
+// class about Any Type
+var info;
+info = 10;
+info = 'Hi';
+info = true;
+var information;
 //# sourceMappingURL=tutorial44.js.map
